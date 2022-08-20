@@ -21,3 +21,4 @@ class Charecter:
 
     def is_dead(self):
         return self.health == 0
+        
